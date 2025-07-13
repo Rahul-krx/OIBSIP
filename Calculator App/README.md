@@ -35,13 +35,6 @@ A beautiful, fully functional calculator built with HTML, CSS, and JavaScript fe
 3. Click equals (=) to see the result
 4. Use AC to clear everything or DEL to delete the last digit
 
-### Keyboard Shortcuts
-- **Numbers**: 0-9 keys
-- **Operators**: +, -, *, /, %
-- **Equals**: Enter or = key
-- **Clear**: Escape key
-- **Delete**: Backspace key
-- **Decimal**: . key
 
 ## File Structure
 
@@ -53,37 +46,12 @@ Calculator App/
 └── README.md       # This documentation
 ```
 
-## Browser Compatibility
-
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
-- Mobile browsers
-
 ## Getting Started
 
 1. Open `index.html` in your web browser
 2. Start calculating!
 
-## Technical Implementation
 
-### CSS Grid System
-The calculator uses CSS Grid for perfect button alignment:
-```css
-.buttons {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
-}
-```
-
-### JavaScript Features
-- **Class-based Architecture**: Organized Calculator class
-- **Event Delegation**: Efficient event handling
-- **State Management**: Tracks current and previous operands
-- **Input Validation**: Prevents invalid operations
-- **Keyboard Support**: Full keyboard accessibility
 
 ### Mathematical Operations
 All basic operations are implemented with proper error handling:
@@ -92,12 +60,3 @@ All basic operations are implemented with proper error handling:
 - Division by zero protection
 - Decimal point support
 
-## Customization
-
-The calculator is highly customizable:
-- Colors can be modified in `styles.css`
-- Button layout can be adjusted in the grid system
-- Additional operations can be added to the JavaScript class
-- Responsive breakpoints can be modified for different screen sizes
-
-Enjoy your new calculator! 🎉 
