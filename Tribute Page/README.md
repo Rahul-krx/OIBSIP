@@ -29,15 +29,7 @@ A beautiful, responsive tribute page dedicated to Marie Curie, the pioneering sc
 2. The page will load with all styling and images automatically
 3. Scroll through the different sections to explore Marie Curie's story
 
-## Customization
 
-To create your own tribute page for someone you admire:
-
-1. **Change the Person**: Replace "Marie Curie" with your chosen person's name
-2. **Update Images**: Replace the image URLs with photos of your chosen person
-3. **Modify Content**: Update all text content to reflect your chosen person's life and achievements
-4. **Adjust Colors**: Modify the CSS color schemes to match your preferences
-5. **Add Sections**: Include additional sections relevant to your chosen person
 
 ## Technical Details
 
@@ -47,21 +39,3 @@ To create your own tribute page for someone you admire:
 - **Responsive Design**: Mobile-first approach with media queries
 - **CSS Grid & Flexbox**: Modern layout techniques
 - **CSS Animations**: Smooth transitions and hover effects
-
-## Browser Compatibility
-
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
-- Mobile browsers
-
-## Credits
-
-- **Marie Curie Portrait**: Wikimedia Commons
-- **Background Images**: Unsplash
-- **Fonts**: Google Fonts (Playfair Display, Source Sans Pro)
-
----
-
-*This tribute page demonstrates how to create an engaging, informative, and visually appealing webpage using basic HTML and CSS skills.* 
