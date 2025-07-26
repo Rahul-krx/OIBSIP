@@ -1,4 +1,4 @@
-# Ecommerce Authentication System
+#  Authentication System
 
 A modern, responsive authentication system with Google OAuth integration and a beautiful ecommerce landing page. The system features a blurred background that becomes clear after successful authentication.
 
